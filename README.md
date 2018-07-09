@@ -13,9 +13,11 @@
   install python
   
 # Python Server and Client js  
-  To run python server use 
+  To run python server run
+  
   python PythonServer.py
   
-  To run Client.js use
+  To run Client.js run
+  
   node Client.js 
   
