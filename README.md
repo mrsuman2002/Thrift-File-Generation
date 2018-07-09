@@ -9,7 +9,9 @@
   
 # Requirements
   install thrift
+  
   install npm
+  
   install python
   
 # Python Server and Client js  
