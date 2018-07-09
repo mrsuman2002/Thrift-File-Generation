@@ -4,6 +4,7 @@
   Generate .py and js:node code using following commands
   
   thrift --gen py tutorial.thrift
+  
   thrift --gen js:node tutorial.thrift
   
 # Requirements
