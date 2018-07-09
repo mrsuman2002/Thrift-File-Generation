@@ -1,4 +1,4 @@
-# Thrift-File-Generation
+# Javascript thrift Python Tutorial
 
   First Create a thrift file called tutorial.thrift
   Generate .py and js:node code using following commands
