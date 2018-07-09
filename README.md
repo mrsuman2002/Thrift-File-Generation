@@ -6,12 +6,12 @@
   thrift --gen py tutorial.thrift
   thrift --gen js:node tutorial.thrift
   
-#Requirements
+# Requirements
   install thrift
   install npm
   install python
   
-#Python Server and Client js
+# Python Server and Client js  
   To run python server use 
   python PythonServer.py
   
