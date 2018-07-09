@@ -16,6 +16,6 @@
   To run python server use 
   python PythonServer.py
   
-  To run CLient.js use
+  To run Client.js use
   node Client.js 
   
